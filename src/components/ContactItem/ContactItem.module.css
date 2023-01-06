@@ -1,0 +1,24 @@
+.contactItem {
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 8px;
+}
+
+.contactBtn {
+    padding: 5px;
+    margin-left: 10px;
+    display: inline-block;
+    width: 70px;
+    margin-left: auto;
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid gray;
+    background-color: lightgrey;
+}
+
+.contactBtn:hover,
+.contactBtn:focus {
+   background-color: yellowgreen;
+}
+

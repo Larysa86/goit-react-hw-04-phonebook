@@ -1,0 +1,40 @@
+.contactForm {
+    display: flex;
+    flex-direction: column;
+    padding: 12px;
+    border: 1px solid gray;
+    margin: 20px 0;
+    background-color: lightgray
+
+
+}
+
+.label {
+    display: block;
+    font-size: 20px;
+    margin-bottom: 10px;
+
+
+}
+
+.inputForm {
+    display: block;
+    margin-top: 4px;
+}
+
+.contactButton {
+    max-width: 100px;
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid gray;
+    background-color: #fff;
+
+
+}
+
+.contactButton:hover,
+.contactButton:focus {
+    background-color: yellowgreen;
+}

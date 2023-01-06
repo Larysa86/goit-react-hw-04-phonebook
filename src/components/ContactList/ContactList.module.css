@@ -1,0 +1,14 @@
+.contactsList {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+
+.totalContacts {
+    margin-top: 12px;
+    font-size: 16px;
+    font-weight: 400px;
+    /* color: gray; */
+}
